@@ -1,0 +1,98 @@
+{
+    "country": "Ukraine",
+    "cities": [
+      {
+        "name": "Dnipro",
+        "classes": [
+          {
+            "name": "Dnipro_class1",
+            "schedule": [
+              {
+                "dayOfWeek": "Monday",
+                "times": ["10:00 - 12:00", "14:00 - 16:00", "18:00 - 20:00"]
+              },
+              {
+                "dayOfWeek": "Tuesday",
+                "times": ["10:00 - 12:00", "14:00 - 16:00", "18:00 - 20:00"]
+              },
+              {
+                "dayOfWeek": "Wednesday",
+                "times": ["10:00 - 12:00", "14:00 - 16:00", "18:00 - 20:00"]
+              }
+            ]
+          }
+     
+        ]
+      },
+      {
+        "name": "Kiev",
+        "classes": [
+          {
+            "name": "Kiev_class1",
+            "schedule": [
+              {
+                "dayOfWeek": "Monday",
+                "times": ["10:00 - 12:00", "14:00 - 16:00", "18:00 - 20:00"]
+              },
+              {
+                "dayOfWeek": "Tuesday",
+                "times": ["10:00 - 12:00", "14:00 - 16:00", "18:00 - 20:00"]
+              },
+              {
+                "dayOfWeek": "Wednesday",
+                "times": ["10:00 - 12:00", "14:00 - 16:00", "18:00 - 20:00"]
+              }
+            ]
+          }
+        
+        ]
+      },
+      {
+        "name": "Odessa",
+        "classes": [
+          {
+            "name": "Odessa_class1",
+            "schedule": [
+              {
+                "dayOfWeek": "Monday",
+                "times": ["10:00 - 12:00", "14:00 - 16:00", "18:00 - 20:00"]
+              },
+              {
+                "dayOfWeek": "Tuesday",
+                "times": ["10:00 - 12:00", "14:00 - 16:00", "18:00 - 20:00"]
+              },
+              {
+                "dayOfWeek": "Wednesday",
+                "times": ["10:00 - 12:00", "14:00 - 16:00", "18:00 - 20:00"]
+              }
+            ]
+          }
+          
+        ]
+      },
+      {
+        "name": "Kharkov",
+        "classes": [
+          {
+            "name": "Kharkov_class1",
+            "schedule": [
+              {
+                "dayOfWeek": "Monday",
+                "times": ["10:00 - 12:00", "14:00 - 16:00", "18:00 - 20:00"]
+              },
+              {
+                "dayOfWeek": "Tuesday",
+                "times": ["10:00 - 12:00", "14:00 - 16:00", "18:00 - 20:00"]
+              },
+              {
+                "dayOfWeek": "Wednesday",
+                "times": ["10:00 - 12:00", "14:00 - 16:00", "18:00 - 20:00"]
+              }
+            ]
+          }
+        
+        ]
+      }
+    ]
+  }
+  
